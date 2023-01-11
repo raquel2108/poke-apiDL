@@ -1,0 +1,23 @@
+.form-cont-pok{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.form-cont-select{
+
+    width: 40vh;
+    margin: 2vh 0 0 0;
+    border-radius: 2vh;
+}
+.form-button{
+
+    background-color: rgb(68, 68, 68);
+    color: white;
+    width: 40vh;
+    height: 8vh;
+    margin: 2vh 0 0 0;
+    border-radius: 2vh;
+}

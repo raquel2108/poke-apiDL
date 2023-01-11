@@ -1,0 +1,13 @@
+.form-cont-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-img {
+    margin-left: 25%;
+}
+
+.active:link {
+    color: white;
+}
